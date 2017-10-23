@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1508778449 source:c:\users\pablo\documents\proyectos codeblocks\personas\main.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	"personas.h"
+
+1508777633 c:\users\pablo\documents\proyectos codeblocks\personas\personas.h
+	<stdio.h>
+	<stdlib.h>
+
+1508796325 source:c:\users\pablo\documents\proyectos codeblocks\personas\personas.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	"personas.h"
+
